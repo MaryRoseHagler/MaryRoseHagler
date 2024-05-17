@@ -8,6 +8,7 @@ Welcome to my GitHub profile! 👋 I'm Mary Rose Hagler, a passionate coder with
   *2021 - Present*
 
 ## Certification
+- NoSQL and DBaaS 101 [View Certification](https://courses.cognitiveclass.ai/certificates/95c09fe57d5c4dad97f34c6ae5e3cac5)
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
   [View Certification](Certification_Link_1)
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**
