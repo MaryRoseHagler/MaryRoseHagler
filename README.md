@@ -1,6 +1,6 @@
 # Mary Rose Hagler
 
-Welcome to my GitHub profile! 👋 I'm Mary Rose Hagler, a passionate coder with a knack for database management. I enjoy solving intricate problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and since then, I've been on a continuous learning and coding adventure.
+I am Mary Rose Hagler, a passionate coder with a knack for database management. I enjoy solving intricate problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and since then, I've been on a continuous learning and coding adventure.
 
 ## Education
 - **BS Information Technology**
