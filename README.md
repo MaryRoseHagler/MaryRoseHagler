@@ -19,6 +19,11 @@ I am Mary Rose Hagler, a passionate coder with a knack for database management. 
   [View Certification](Certification_Link_4)
 - **Analytics 101 for Businesses**
   [View Certification](https://asklexph.com/courses/analytics-101-for-businesses/congratulations?return_to=%2Fcourses%2Fanalytics-101-for-businesses%2F338%2Fquiz%2Fanalytics-101-for-business-132%2Fscore)
+  - **Big Data Applications**
+  [View Certification](https://asklexph.com/courses/big-data-applications/congratulations?return_to=%2Fcourses%2Fbig-data-applications%2F361%2Fquiz%2Fbig-data-applications-quiz-152%2Fscore)
+
+
+
 
 
 ## Skill Sets
