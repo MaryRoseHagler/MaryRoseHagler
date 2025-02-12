@@ -22,15 +22,18 @@ I am Mary Rose Hagler, a passionate coder with a knack for database management. 
 - **Programming:**
   - Java
   - Javascript
+  - Phython
 
 - **Databases:**
   - IBM DB2 Cloud
+  - MySQL
 
 - **Tools:**
   - Lucidchart
   - Jaspersoft Studio
   - Eclipse
   - HTML
+  - Virtual Studio
 
 ## Connect with Me
 - **LinkedIn:**
