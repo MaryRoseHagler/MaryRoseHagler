@@ -16,7 +16,7 @@ I am Mary Rose Hagler, a passionate coder with a knack for database management. 
 - **Big Data Applications**
   [View Certification](https://asklexph.com/courses/big-data-applications/congratulations?return_to=%2Fcourses%2Fbig-data-applications%2F361%2Fquiz%2Fbig-data-applications-quiz-152%2Fscore)
 - **Digital Analytics & Regression**
-  [View Certification]([Certification_Link_1](https://courses.cognitiveclass.ai/certificates/42489f3803a04bbc830ece0dbf533e9c))
+  [View Certification]([Certification_Link_1](https://courses.cognitiveclass.ai/certificates/42489f3803a04bbc830ece0dbf533e9c)
 - **Big Data 101**
   [View Certification](https://courses.cognitiveclass.ai/certificates/c3112ea6d8424554adf8e0723c803dac)
 - **cert**
