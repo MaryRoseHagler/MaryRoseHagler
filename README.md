@@ -8,21 +8,23 @@ I am Mary Rose Hagler, a passionate coder with a knack for database management. 
   *2022 - Present*
 
 ## Certification
-- NoSQL and DBaaS 101 [View Certification](https://courses.cognitiveclass.ai/certificates/95c09fe57d5c4dad97f34c6ae5e3cac5)
+- **NoSQL and DBaaS 101** [View Certification](https://courses.cognitiveclass.ai/certificates/95c09fe57d5c4dad97f34c6ae5e3cac5)
 - **SQL and Relational Databases 101**
   [View Certification](https://courses.cognitiveclass.ai/certificates/bf6f0c5de8ae40fb8ea9745fc03aee65)
 - **Digital Analytics & Regression**
   [View Certification](https://courses.cognitiveclass.ai/certificates/42489f3803a04bbc830ece0dbf533e9c)
 - **Big Data 101**
   [View Certification](https://courses.cognitiveclass.ai/certificates/c3112ea6d8424554adf8e0723c803dac)
-- **cert**
-  [View Certification](Certification_Link_3)
-- **cert**
+- **Fundamentals of Encryption & Quantum-Safe Techniques**
+  [View Certification](https://www.credly.com/badges/3999dc35-269f-47be-ad77-8272d2443be3))
+- **Ethical Hacking Essentials (EHE) 2026**
   [View Certification](Certification_Link_1)
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**
   [View Certification](Certification_Link_2)
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
   [View Certification](Certification_Link_3)
+- **Oracle Cloud Infrastructure Foundations 2026**
+  [View Certification] (https://cour sera.org/ver ify/4L36YO4008UL))
 - **Analytics 101 for Businesses**
   [View Certification](https://asklexph.com/courses/analytics-101-for-businesses/congratulations?return_to=%2Fcourses%2Fanalytics-101-for-businesses%2F338%2Fquiz%2Fanalytics-101-for-business-132%2Fscore)
 - **Big Data Applications**
