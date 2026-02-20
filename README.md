@@ -16,7 +16,7 @@ I am Mary Rose Hagler, a passionate coder with a knack for database management. 
 - **Big Data 101**
   [View Certification](https://courses.cognitiveclass.ai/certificates/c3112ea6d8424554adf8e0723c803dac)
 - **Fundamentals of Encryption & Quantum-Safe Techniques**
-  [View Certification](https://www.credly.com/badges/3999dc35-269f-47be-ad77-8272d2443be3))
+  [View Certification](https://www.credly.com/badges/3999dc35-269f-47be-ad77-8272d2443be3)
 - **Ethical Hacking Essentials (EHE) 2026**
   [View Certification](Certification_Link_1)
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**
