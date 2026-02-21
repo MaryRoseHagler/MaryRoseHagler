@@ -24,7 +24,7 @@ I am Mary Rose Hagler, a passionate coder with a knack for database management. 
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
   [View Certification](Certification_Link_3)
 - **Oracle Cloud Infrastructure Foundations 2026**
-  [View Certification] (https://coursera.org/verify/4L36YO4008UL)
+  [View Certification](https://coursera.org/verify/4L36YO4008UL)
 - **Analytics 101 for Businesses**
   [View Certification](https://asklexph.com/courses/analytics-101-for-businesses/congratulations?return_to=%2Fcourses%2Fanalytics-101-for-businesses%2F338%2Fquiz%2Fanalytics-101-for-business-132%2Fscore)
 - **Big Data Applications**
