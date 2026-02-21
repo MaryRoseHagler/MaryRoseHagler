@@ -30,17 +30,14 @@ I am Mary Rose Hagler, a passionate coder with a knack for database management. 
 - **Big Data Applications**
   [View Certification](https://asklexph.com/courses/big-data-applications/congratulations?return_to=%2Fcourses%2Fbig-data-applications%2F361%2Fquiz%2Fbig-data-applications-quiz-152%2Fscore)
 
-
-
-
-
 ## Skill Sets
 - **Programming:**
   - Java
   - Javascript
-  - Phython
-  
-  
+  - Python
+  - C++
+  - PHP 
+ 
 - **Databases:**
   - IBM DB2 Cloud
   - MySQL
